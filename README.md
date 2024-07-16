@@ -4,8 +4,8 @@
 
   <p> <img src="https://komarev.com/ghpvc/?username=nimsarac&label=Profile%20views&color=0e75b6&style=flat" alt="nimsarac" /> </p>
 
-  <p> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nimsarac" alt="nimsarac" /></a> </p>
-
+  <p> <a href="https://github.com/nimsarac/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nimsarac&theme=radical&no-frame=true&no-bg=true&margin-w=4" alt="nimsarac" /></a> </p>
+  
   <p> 🌱 I’m currently learning <strong>C#</strong></p>
 
   <p> 📫 How to reach me: <strong>c.t.nimsara@gmail.com</strong></p>
@@ -37,8 +37,8 @@
   <h3>Languages I've Used:</h3>
     <!-- Replace 'nimsarac' with your GitHub username -->
     <p>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nimsarac&layout=compact&langs_count=10" alt="Top Languages">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nimsarac&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact" alt="Top Languages">
     </p>
 
-  <p><img src="https://github-readme-streak-stats.herokuapp.com/?user=nimsarac&" alt="nimsarac" /></p>
+  <p><img src="https://github-readme-streak-stats.herokuapp.com/?user=nimsarac&theme=dark&hide_border=false" alt="nimsarac" /></p>
 </div>
