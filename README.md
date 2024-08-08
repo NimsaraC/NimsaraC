@@ -1,6 +1,6 @@
 <div style="text-align: center;">
     <h1>Hi 👋, I'm Tharusha Nimsara</h1>
-    <h3>A dedicated software engineering student passionate about ASP.NET MVC and API development.</h3>
+    <h3>A dedicated software engineering student.</h3>
 
   <p> <img src="https://komarev.com/ghpvc/?username=nimsarac&label=Profile%20views&color=0e75b6&style=flat" alt="nimsarac" /> </p>
 
