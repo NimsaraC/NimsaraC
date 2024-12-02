@@ -6,7 +6,7 @@
 
   <p> <a href="https://github.com/nimsarac/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nimsarac&theme=radical&no-frame=true&no-bg=true&margin-w=4" alt="nimsarac" /></a> </p>
   
-  <p> 🌱 I’m currently learning <strong>C#</strong></p>
+  <p> 🌱 I’m currently learning <strong>Flutter</strong></p>
 
   <p> 📫 How to reach me: <strong>c.t.nimsara@gmail.com</strong></p>
 
