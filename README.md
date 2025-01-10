@@ -7,6 +7,7 @@
     <p>
         <a href="https://github.com/nimsarac/github-profile-trophy">
             <img src="https://github-profile-trophy.vercel.app/?username=nimsarac&theme=radical&no-frame=true&no-bg=true&margin-w=4" alt="GitHub Trophies" />
+              <img src="https://github-profile-trophy.vercel.app?username=NimsaraC&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
         </a>
     </p>
     <p> 🌱 I’m currently learning <strong>Flutter</strong></p>
@@ -31,15 +32,14 @@
     </p>
     <h3 style="margin-top: 30px;">Languages I've Used:</h3>
     <p>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nimsarac&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=NimsaraC&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
     </p>
     <h3 style="margin-top: 30px;">GitHub Streak Stats:</h3>
     <p>
         <img src="https://github-readme-streak-stats.herokuapp.com/?user=nimsarac&theme=dark&hide_border=false" alt="GitHub Streak Stats - Dark Theme" />
     </p>
-    <h3 style="margin-top: 30px;">GitHub Contributions Snake Animation:</h3>
-    <p>
-        <img src="https://github.com/nimsarac/nimsarac/blob/output/github-contribution-grid-snake.svg" alt="GitHub Snake Animation" />
-    </p
-        ![GitHub Snake Animation](https://github.com/nimsarac/nimsarac/blob/output/github-contribution-grid-snake.svg)
+    <div>
+        <img src="https://raw.githubusercontent.com/NimsaraC/NimsaraC/output/snake.svg" alt="Snake animation" />
+    </div>
+
 </div>
