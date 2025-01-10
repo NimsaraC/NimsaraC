@@ -31,14 +31,16 @@
     </p>
     <h3 style="margin-top: 30px;">Languages I've Used:</h3>
     <p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=NimsaraC&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+          <img src="https://github-readme-stats.vercel.app/api/top-langs?username=NimsaraC&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false&order=2" height="150" alt="languages graph"  />
     </p>
-    <h3 style="margin-top: 30px;">GitHub Streak Stats:</h3>
+    <h3 style="margin-top: 30px;">GitHub Streak Stats</h3>
     <p>
         <img src="https://github-readme-streak-stats.herokuapp.com/?user=nimsarac&theme=dark&hide_border=false" alt="GitHub Streak Stats - Dark Theme" />
     </p>
+    <div align="center">
     <div>
         <img src="https://raw.githubusercontent.com/NimsaraC/NimsaraC/output/snake.svg" alt="Snake animation" />
+    </div>
     </div>
 
 </div>
