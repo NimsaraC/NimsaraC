@@ -7,7 +7,6 @@
     <p>
         <a href="https://github.com/nimsarac/github-profile-trophy">
             <img src="https://github-profile-trophy.vercel.app/?username=nimsarac&theme=radical&no-frame=true&no-bg=true&margin-w=4" alt="GitHub Trophies" />
-              <img src="https://github-profile-trophy.vercel.app?username=NimsaraC&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
         </a>
     </p>
     <p> 🌱 I’m currently learning <strong>Flutter</strong></p>
