@@ -12,7 +12,7 @@
     <p> 🌱 I’m currently learning <strong>Flutter</strong></p>
     <p> 📫 How to reach me: <strong>c.t.nimsara@gmail.com</strong></p>
     <p> ⚡ Fun fact: <strong>NimsaraC</strong></p>
-    <h3 style="margin-top: 30px;">Connect with me:</h3>
+<!--     <h3 style="margin-top: 30px;">Connect with me:</h3> -->
     <p>
         <!-- Add your social media links with icons -->
         <!-- Example: <a href="#"><img src="icon.png" alt="icon"></a> -->
